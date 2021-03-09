@@ -4,10 +4,21 @@ Work work work work work work
 Work work work work work work
 Work work work work work work
 Work work work work work work
+
+This is new work that needs
+to get to the development
+Branch
+I need this code in production!
+I hope it doesnt conflict!
+
 I am so busy. So much work.
 Time to get this to the repo!
 So productive! I can work Directly inside Github!
 This will create a conflict later. Just watch!
+
+Normally this would require some additional work 
+to make sure that the two sets of changes actually work together
+
 Work work work work work work
 Work work work work work work
 
